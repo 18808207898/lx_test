@@ -9,3 +9,4 @@ Git is free software.
 	3.2 dev修改2
 	3.1 dev上修改
 
+4.忽略配置文件
